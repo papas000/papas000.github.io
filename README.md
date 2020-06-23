@@ -1,4 +1,2 @@
 # website-demo
-Website demo. (HTML, CSS, JS, BootStrap)
-
-Extract archive and open index.html
+Website demo using HTML, CSS, JS and BootStrap Library.
